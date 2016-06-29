@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=ToonTown Controller
+Icon=toontown-controller
+Exec=toontown-controller
+Terminal=false
+Categories=Game;RolePlaying;
